@@ -1,0 +1,14 @@
+Installation for MAC M1
+
+touch ~/.zshrc // to create file 
+open ~/.zshrc // to open file
+source ~/.zshrc // to source / available all paths and EV into command line
+
+JAVA
+download JAVA from oracle and it will ask for login
+once downloaded
+to check is it downloaded properly or not "javac" in terminal
+set ENV variable
+export JAVA_HOME=$(/usr/libexec/java_home)
+than source ~/.zshrc
+to check echo $JAVA_HOME

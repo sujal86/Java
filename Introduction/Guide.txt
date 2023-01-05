@@ -1,0 +1,25 @@
+-> To run any java program firstly we need to compile program and than only to run it
+    to compile java program
+        in terminal current path folder type -> javac (file name) with extention(.java)
+            i.e. javac helloworld.java
+
+    after compile java program to run java program
+        in terminal type -> java (class name)
+            i.e. java helloworld
+
+-> With interpret method to run program
+        in terminal type -> java (file name) with extention(.java)
+            i.e. java helloworld.java
+
+-> identically main class name and file name should be same so it can be easyily readable
+
+-> comments 
+    '//' used for single line comments in java file 
+    '/*  */' use for multiline comments
+
+-> Variable 
+    we will see how to declare variable and how to assign value to it
+    left side is to declared name of variable and right side is value to assinged it
+
+-> Input from user 
+    taking value from user and store it and later print it too.

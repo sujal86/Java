@@ -4,9 +4,9 @@ JAVA (OOPs) Concepts
 Topics we cover in this Programs
 
 - Installation
-    How to install in Mac and Windows and set PATH (Environment variable)
+    - How to install in Mac and Windows and set PATH (Environment variable)
 - Introduction
-    This covers initial concept and we learn how to write in JAVA and run program
+    - This covers initial concept and we learn how to write in JAVA and run program
 - Basics
     - Data Types
     - Operators

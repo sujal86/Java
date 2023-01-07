@@ -1,0 +1,35 @@
+# Procedure base Programs
+
+->  Find string count
+->  Find odd-even number from an array
+->  Fibonacci series
+->  Print Factorial to given terms.
+->  Reverse a word
+->  Reverse the sentence
+->  Create a Program for any given number in STRING 
+    and all of the mathematical functions can apply on it. 
+    i.e. '2' + '3.5' should give output 5.5
+->  SUM of digits program 
+    i.e. 234 = 9
+->  Grade Finding program.
+    i.e. take input from user as marks and print which grade they have
+->  Find Highest, 2nd highest, lowest and 2nd lowest digits from the given array
+->  Print Matrix from given two different arrays.
+->  Addition, Subtraction, Multiplication between two matrix
+->  Reverse Alternative Character of String array 
+    i.e. IMPORTANT -> MIOPTRNAT
+->  Upgrade the Above program for Generic customisable reverse input number. 
+    i.e.    Case1 : Input 2 IMPORTANT -> MIOPTRNAT 
+            Case2 : Input 3 IMPORTANT -> PMITROTNA 
+            Case3 : Input 4 IMPORTANT -> OPMINATRT
+
+# Class Base Programs
+
+->  Bank Application which contain user opening balance, deposit amount, withdraw amount, check balance methods.
+->  Create a Transportation class and inherit in by Air, Road, Water 
+    and also show the different ways to travel from those three different classes.
+->  Create class for user profile and take various property 
+    which include all different type of java datatype. 
+    create static method too. 
+    every object can take inputs to create CV. 
+    apply needed validations and exceptions.

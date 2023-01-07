@@ -1,7 +1,8 @@
-// We will what kind of datatypes are available and what there useage
 /*
+ *  We will see what kind of datatypes are available and what their useage
  * In Java it has 2 type of data types
- * Primitive and
+ * 
+ * Primitive 
  * Non Primitive
  * 
  * Primitive data types has following data types
@@ -12,17 +13,11 @@
  * 
  * In this program we will see PRIMITIVE DATA TYPES
  * Non Primitive data type we will see later
- * 
  */
-import java.util.Scanner;
 public class primitiveDataTypes {
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
         
-        /* 
-            First we see How to declare variable in various data types
-            We will see there output
-            Than we take user input and print it 
-        */ 
+        // Lets see How to declare variable in various data types and print their values
 
         // First we see INTEGER type of data types
 
@@ -59,7 +54,38 @@ public class primitiveDataTypes {
          */
         System.out.println("Long Datatype Value is " + longValue);
 
+        float floatValue = 12.3F;
+        /*
+        The float data type is a single-precision 
+        Its value range is unlimited. 
+        It is recommended to use a float (instead of double) if you need to save memory.
+        Its default value is 0.0F.
+         */
+        System.out.println("Float Datatype Value is " + floatValue);
 
-    }
-    
+        double doubleValue = 1234567.89;
+        /*
+        The double data type is a double-precision 
+        Its value range is unlimited. 
+        It is recommended to use a float (instead of double) if you need to save memory.
+        Its default value is 0.0d.
+        */
+        System.out.println("Double Datatype Value is " + doubleValue);
+
+        char charValue = 'S';
+        /*
+         * The char data type is a single 16-bit Unicode character. 
+         * Its value-range lies between '\u0000' (or 0) to '\uffff' (or 65,535 inclusive).
+         * The char data type is used to store characters.
+         */
+        System.out.println("Char Datatype Value is " + charValue);
+
+        boolean booleanValue = false;
+        /*
+         * The Boolean data type is used to store only two possible values: true and false. 
+         * This data type is used for simple flags that track true/false conditions.
+         * The Boolean data type specifies one bit of information, but its "size" can't be defined precisely.
+         */
+        System.out.println("Char Datatype Value is " + booleanValue);
+    }   
 }
